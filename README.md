@@ -1,4 +1,3 @@
-# Encryption-Program
 # Encryption Program using parallel programming with C language
 
 ## the enctyption is done by shifting the ASCII codes of chars [a:z] or [A:Z] , any other characters , remain the same
